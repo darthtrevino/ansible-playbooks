@@ -2,4 +2,3 @@
 dependencies:
   # Supplies workstation_home and workstation_bashrcd.
   - role: workstation
-  - role: bashrcd
